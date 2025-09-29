@@ -15,8 +15,8 @@ All company, product and service names used in this website are for
 identification purposes only.
  
 ## Authors
-* [**Anna-Lena Erdmann**](mailto://annalena.erdmann@eumetsat.int) - *Current development, future development strategy and collaboration* [EUMETSAT](http://www.eumetsat.int)
-* [**Hayley Evers-King**](mailto://hayley.eversking@eumetsat.int) - *Initial work, current development, future development strategy and collaboration* [EUMETSAT](http://www.eumetsat.int)
+* [**Anna-Lena Erdmann**](mailto://annalena.erdmann@eumetsat.int) - *Current development, future development strategy and collaboration* - [EUMETSAT](http://www.eumetsat.int)
+* [**Hayley Evers-King**](mailto://hayley.eversking@eumetsat.int) - *Initial work, current development, future development strategy and collaboration* - [EUMETSAT](http://www.eumetsat.int)
 * [**Ben Loveday**](mailto://Ben.Loveday@external.eumetsat.int) - *Initial work* - [EUMETSAT](http://www.eumetsat.int)
 * [**Julia Wagemann**](mailto://julia@jwagemann.com) - *Initial work* - [MEEO](http://www.meeo.it)
 * [**Oliver Clements**](mailto://olcl@pml.ac.uk) - *Development* - [PML](http://www.pml.ac.uk)
@@ -44,4 +44,4 @@ environment to include the dependencies listed.
 |-----------|---------|--------------|----------------------------------------------------------------------|
 | python    | 3.10.1  | PSF-2.0      | [python.org](https://www.python.org/downloads/release/python-3100/)  |
 | hda       | 2.34    | Apache-2.0   | [anaconda.org/conda-forge/hda](https://anaconda.org/conda-forge/hda) |
-| ipykernel | 7.0.0a2 | BSD-3-Clause | [anaconda.org/conda-forge/ipykernel](https://anaconda.org/conda-
+| ipykernel | 7.0.0a2 | BSD-3-Clause | [anaconda.org/conda-forge/ipykernel](https://anaconda.org/conda-forge/ipykernel) |
