@@ -42,6 +42,6 @@ environment to include the dependencies listed.
 
 | Package   | Version | License      | Link                                                                 |
 |-----------|---------|--------------|----------------------------------------------------------------------|
-| python    | 3.10.1  | PSF-2.0      | [python.org](https://www.python.org/downloads/release/python-3100/)  |
+| python    | 3.10  | PSF-2.0      | [python.org](https://www.python.org/downloads/release/python-3100/)  |
 | hda       | 2.34    | Apache-2.0   | [anaconda.org/conda-forge/hda](https://anaconda.org/conda-forge/hda) |
 | ipykernel | 7.0.0a2 | BSD-3-Clause | [anaconda.org/conda-forge/ipykernel](https://anaconda.org/conda-forge/ipykernel) |

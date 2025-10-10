@@ -1,0 +1,32 @@
+# Component information
+name: wekeo-hda
+description: Compendium of training content associated with the WEkEO harmonized data access API.
+copyright: 2025 European Union
+license_spdx: MIT
+date: 10-10-2025
+home_url: https://gitlab.eumetsat.int/eumetlab/wekeo-tools/wekeo-hda
+
+# Package IPR documentation
+license_text_file: LICENSE.txt
+
+# File(s) associated to this component
+
+about_resource: ./AUTHORS.txt
+about_resource: ./LICENSE.txt
+about_resource: ./README.md
+about_resource: ./about.ipynb
+about_resource: ./environment.yml
+about_resource: ./img/LogoWekeo_Copernicus_RGB_0.png
+about_resource: ./img/Sentinel_3_datasetID.png
+about_resource: ./img/WEkEO_catalogue.png
+about_resource: ./img/api_request.png
+about_resource: ./img/download_button.png
+about_resource: ./img/img_01.png
+about_resource: ./wekeo_harmonised_data_access_api.ipynb
+
+# Notes:
+
+The images contained in the ./img/thumbs folder are generated using the 
+matplotlib tool. The matplotlib tool does not extend its license/copyright to 
+figures produced by the package. The figures are covered by the package IPR
+documentation as specified in the license text file.
