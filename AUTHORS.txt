@@ -1,5 +1,7 @@
 # Copyright holder
-EUMETSAT 
+copyright: 2025 European Union
+license: LICENSE.txt
+
 
 Work partly developed under contract EUM/CO/17/4600001942/CT
  
